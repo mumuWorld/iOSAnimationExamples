@@ -14,9 +14,16 @@
 
 ---
 
+### 🚁Transition (转场)
+
+![](images/screenshot.gif)
+
+🖥️[BubbleTransition git](https://github.com/andreamazz/BubbleTransition)
+
+实现方式简介:   使用 mask + CAShapeLayer + UIBezierPath 方法实现
+
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/yourname/iOSAnimationExamples.git
-cd iOSAnimationExamples
-open AnimationExamples.xcodeproj
+
+```
