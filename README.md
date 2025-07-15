@@ -14,7 +14,13 @@
 
 ---
 
-### 🚁Transition (转场)
+### 博客
+
+📋[动效拆解工厂：Mask 动画](https://www.jianshu.com/p/3c925a1609f8)
+📋[唐巧大神的转场详解](https://blog.csdn.net/qq_19678579/article/details/51519757)
+📋[放肆的使用UIBezierPath和CAShapeLayer画各种图形](https://www.jianshu.com/p/c5cbb5e05075)
+
+### 🚁Transition (转场示例)
 
 ![](images/screenshot.gif)
 
